@@ -1,0 +1,56 @@
+.login {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+
+    background-image: linear-gradient(to bottom, #414141, #b4b4b4 150%)
+}
+
+.login img {
+    width: 150px;
+    height: 150px;
+
+    margin-top: -80px;
+}
+
+.login h1 {
+    font-size: 60px;
+    color: #FFF;
+
+    margin-top: -10px;
+}
+
+.login h2 {
+    font-size: 25px;
+    color: #FFF;
+
+    margin-top: -20px;
+}
+
+.login h3 {
+    font-size: 18px;
+    color: #FFF;
+
+    margin-top: -5px;
+}
+
+.login button {
+    width: 350px;
+    height: 65px;
+
+    font-size: 17px;
+    font-weight: bold;
+    background-color: rgb(54, 54, 247);
+    color: #fff;
+
+    border-radius: 15px;
+    border: none;
+    box-shadow: none;
+    outline: none;
+
+    cursor: pointer;
+}
+
